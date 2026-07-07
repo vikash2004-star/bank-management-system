@@ -1,0 +1,4 @@
+bin/
+*.class
+accounts.dat
+.vscode/
